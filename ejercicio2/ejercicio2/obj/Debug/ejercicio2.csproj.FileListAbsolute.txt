@@ -1,0 +1,7 @@
+C:\Users\Nycko\Desktop\SEMANA 11\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe.config
+C:\Users\Nycko\Desktop\SEMANA 11\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe
+C:\Users\Nycko\Desktop\SEMANA 11\ejercicio2\ejercicio2\bin\Debug\ejercicio2.pdb
+C:\Users\Nycko\Desktop\SEMANA 11\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.AssemblyReference.cache
+C:\Users\Nycko\Desktop\SEMANA 11\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Nycko\Desktop\SEMANA 11\ejercicio2\ejercicio2\obj\Debug\ejercicio2.exe
+C:\Users\Nycko\Desktop\SEMANA 11\ejercicio2\ejercicio2\obj\Debug\ejercicio2.pdb
