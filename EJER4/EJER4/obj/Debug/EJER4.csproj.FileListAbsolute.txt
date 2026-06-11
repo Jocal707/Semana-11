@@ -1,0 +1,7 @@
+D:\Escritorio\FUNDAMENTOS ALGORITMOS\Tarea_S11\EJER4\EJER4\bin\Debug\EJER4.exe.config
+D:\Escritorio\FUNDAMENTOS ALGORITMOS\Tarea_S11\EJER4\EJER4\bin\Debug\EJER4.exe
+D:\Escritorio\FUNDAMENTOS ALGORITMOS\Tarea_S11\EJER4\EJER4\bin\Debug\EJER4.pdb
+D:\Escritorio\FUNDAMENTOS ALGORITMOS\Tarea_S11\EJER4\EJER4\obj\Debug\EJER4.csproj.AssemblyReference.cache
+D:\Escritorio\FUNDAMENTOS ALGORITMOS\Tarea_S11\EJER4\EJER4\obj\Debug\EJER4.csproj.CoreCompileInputs.cache
+D:\Escritorio\FUNDAMENTOS ALGORITMOS\Tarea_S11\EJER4\EJER4\obj\Debug\EJER4.exe
+D:\Escritorio\FUNDAMENTOS ALGORITMOS\Tarea_S11\EJER4\EJER4\obj\Debug\EJER4.pdb
